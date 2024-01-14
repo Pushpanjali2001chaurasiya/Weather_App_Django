@@ -8,3 +8,4 @@ requests
 sqlparse
 urllib3
 gunicorn
+whitenoise 
